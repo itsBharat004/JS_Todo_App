@@ -15,7 +15,7 @@ addItems1.addEventListener("click", () => {
   let heading = "Add new list";
   popUp(addItems1, heading);
 });
-// Funcrtion  one create popup
+// Function  one create popup
 
 function popUp(button, heading, newTask) {
   // disableing the buttons
